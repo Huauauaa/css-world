@@ -1,0 +1,13 @@
+{
+  "name": "css-world",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Harvey <harvey0379@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 1130"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
